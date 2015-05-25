@@ -9,7 +9,7 @@
 #           docker run -d --name=exo-chat exoplatform/ubuntu-jdk7-exo-chat:1.0.0
 #           docker run -d --name=exo-chat -p 8080:8080 exoplatform/ubuntu-jdk7-exo-chat:1.0.0
 
-FROM       exoplatform/ubuntu-jdk7-exo:plf-4.1
+FROM       xdevelsistemas/debian-jdk7-exo:latest
 MAINTAINER DROUET Frederic <fdrouet+docker@exoplatform.com>
 
 # Install MongoDB
