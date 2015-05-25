@@ -1,10 +1,10 @@
-# Ubuntu + Oracle jdk 7 + eXo Platform Community + Chat add-on Docker container
+# Debian + Oracle jdk 7 + eXo Platform Community + Chat add-on Docker container
 
 * eXo Chat add-on 1.0.0
 * eXo Platform 4.1.0 Community edition
 * MongoDB 2.6
 * Oracle JDK 7 update 71
-* Ubuntu 14.04
+* Debian jessie
 
 ## How to
 
